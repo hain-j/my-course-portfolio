@@ -40,12 +40,12 @@ Welcome to my academic portfolio for CEP
 - Add lemon to neutralize
 
 # Academic Integrity Policy
-[ https://www.senecapolytechnic.ca/about/policies.html ] ( Polocies)
-[ https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html ] ( Academics and Student Services )
-[ https://www.senecapolytechnic.ca/about/policies/board-of-governors.html ] ( Board of Governors )
-[ https://www.senecapolytechnic.ca/about/policies/human-resource.html ] ( Human Resources )
-[ https://www.senecapolytechnic.ca/about/policies/operations-and-finance.html ] ( Operations and Finance )
-[ https://www.senecapolytechnic.ca/about/policies/search.html ] ( Search Policies )
+- [ https://www.senecapolytechnic.ca/about/policies.html ] ( Polocies)
+- [ https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html ] ( Academics and Student Services )
+- [ https://www.senecapolytechnic.ca/about/policies/board-of-governors.html ] ( Board of Governors )
+- [ https://www.senecapolytechnic.ca/about/policies/human-resource.html ] ( Human Resources )
+- [ https://www.senecapolytechnic.ca/about/policies/operations-and-finance.html ] ( Operations and Finance )
+- [ https://www.senecapolytechnic.ca/about/policies/search.html ] ( Search Policies )
 
 ## Purpose 
 
