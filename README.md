@@ -8,12 +8,12 @@ Welcome to my academic portfolio for CEP
 - Favourite Programming Language: C
 
 ### Favourite Hobby
-_Playing video games_
+- _Playing video games_
 - Watching
 - Cooking
 - Playing guitar
 
-#Course Goals
+# Course Goals
 - [ ] Learn version control with Git and GitHub
 - [ ] Complete all lab assignments
 - [ ] Build a professional portfolio
