@@ -2,10 +2,10 @@
 Welcome to my academic portfolio for CEP
 
 ## About Me
-Name: Maria Johaina Fontanilla
-Major: Computer Programming
-Year: 2025
-Favourite Programming Language: C
+- Name: Maria Johaina Fontanilla
+- Major: Computer Programming
+- Year: 2025
+- Favourite Programming Language: C
 
 ### Favourite Hobby
 _Playing video games_
